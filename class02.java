@@ -1,13 +1,9 @@
-package hw;
 
-public class cbbb {
+class cbbb {
 	double x ;
 	double y ;
-
-}
-package hw;
-
-public class a {
+	
+	public class a {
 
 	public static void main(String[] args) {
 		cbbb obj1,obj2,avg ;
@@ -28,5 +24,4 @@ public class a {
 		 System.out.println("obj2 x="+obj2.x+" y="+obj2.y);
 		 System.out.println("avg  x="+avg.x+" y="+avg.y);
 	}
-
-}
+}}
