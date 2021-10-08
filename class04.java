@@ -1,13 +1,10 @@
-package hw04;
 
-public class CBox {
+ class CBox {
 	int length;
 	int width;
 	int heigth;
-}
-package hw04;
-
-public class hw8_4 {
+	 
+	 public class hw8_4 {
 
 	public static void main(String[] args) {
 		CBox box ;
@@ -20,7 +17,6 @@ public class hw8_4 {
 		System.out.println("length= "+box.length);
 		System.out.println("width= "+box.width);
 		System.out.println("heigth= "+box.heigth);
-				
-	}
+		}}}
 
-}
+
