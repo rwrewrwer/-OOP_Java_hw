@@ -42,3 +42,6 @@ public class hw9_6
       stu1.show();
    }
 }
+/*name:Annie english:85 math:92 avg:88.5 
+name:Brain english:77 math:56 avg:66.5 
+*/
