@@ -14,11 +14,12 @@ public class hw9_18
       ).setr(2);     // 執行匿名內部類別裡所定義的method
    }
 
-   static class CCircle    // 內部類別Caaa
+   static class CCircle    
    {
        public double pi = 3.14;
        public double radius;
-       public void CCircle(double r) {
+       public void CCircle(double r) {   //沒加void上面的匿名內部類別會有錯誤
+ 
     	   radius = r;
        }
    }
