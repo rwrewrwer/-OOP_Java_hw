@@ -35,3 +35,4 @@ public class hw10_1
 		System.out.println(rect.toString(3,5));
 	}
 }
+//多載
