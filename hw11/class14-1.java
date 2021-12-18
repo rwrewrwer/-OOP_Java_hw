@@ -34,3 +34,4 @@ public class hw11_14 {
 		cir.showData();
 	}
 }
+/*(2)因為子類別CCirclr替父類別CSphere完成了iVolume的實作*/
