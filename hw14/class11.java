@@ -7,7 +7,7 @@ public class class11 {
 	public static void main(String[] args) throws IOException
 	{
 		int count=1;
-		FileInputStream fi = new FileInputStream("C:\\Users\\r53wr\\OneDrive\\�ୱ\\number.txt");
+		FileInputStream fi = new FileInputStream("C:\\Users\\r53wr\\OneDrive\\桌面\\number.txt");
 		
 		byte data[]=new byte[fi.available()];
 		fi.read(data);
