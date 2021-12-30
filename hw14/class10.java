@@ -6,9 +6,9 @@ public class class10 {
 
 	public static void main(String[] args) throws IOException
 	{
-		FileWriter fw = new FileWriter("C:\\Users\\r53wr\\OneDrive\\�ୱ\\rand.txt");
-		FileWriter fw1 = new FileWriter("C:\\Users\\r53wr\\OneDrive\\�ୱ\\rand2.txt");
-		FileReader fr = new FileReader("C:\\Users\\r53wr\\OneDrive\\�ୱ\\rand.txt");
+		FileWriter fw = new FileWriter("C:\\Users\\r53wr\\OneDrive\\桌面\\rand.txt");
+		FileWriter fw1 = new FileWriter("C:\\Users\\r53wr\\OneDrive\\桌面\\rand2.txt");
+		FileReader fr = new FileReader("C:\\Users\\r53wr\\OneDrive\\桌面\\rand.txt");
 		BufferedWriter bw = new BufferedWriter(fw);
 		BufferedWriter bw1 = new BufferedWriter(fw1);
 		BufferedReader br = new BufferedReader(fr);
