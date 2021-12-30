@@ -9,7 +9,7 @@ public class class06 {
 		{
 
 			char data[] = new char[128];
-			FileReader fr = new FileReader("C:\\Users\\r53wr\\OneDrive\\®à­±\\ª«¥ó¾É¦Vµ{¦¡³]­p(java)\\java\\donkey.txt");
+			FileReader fr = new FileReader("C:\\Users\\r53wr\\OneDrive\\æ¡Œé¢\\ç‰©ä»¶å°å‘ç¨‹å¼è¨­è¨ˆ(java)\\java\\donkey.txt");
 			int num = fr.read(data);
 			String str = new String(data,0,num);
 			 System.out.println("Characters read= "+num);
