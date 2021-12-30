@@ -5,9 +5,9 @@ public class class08 {
 	public static void main(String[] args) throws IOException
 	{
 		String str;
-		FileReader fr = new FileReader("C:\\Users\\r53wr\\OneDrive\\�ୱ\\aaa.txt");
-		FileReader fr1 = new FileReader("C:\\Users\\r53wr\\OneDrive\\�ୱ\\bbb.txt");
-		FileWriter fr2 = new FileWriter("C:\\Users\\r53wr\\OneDrive\\�ୱ\\ccc.txt");
+		FileReader fr = new FileReader("C:\Users\r53wr\OneDrive\桌面\\aaa.txt");
+		FileReader fr1 = new FileReader("C:\Users\r53wr\OneDrive\桌面\\bbb.txt");
+		FileWriter fr2 = new FileWriter("C:\Users\r53wr\OneDrive\桌面\\ccc.txt");
 		BufferedReader bu = new BufferedReader(fr);
 		BufferedReader bu1 = new BufferedReader(fr1);
 		BufferedWriter bu2 = new BufferedWriter(fr2);
