@@ -22,7 +22,7 @@ class prepaid extends Thread
 		{}
 	 if(sum>0)
 	 {
-		System.out.println("³q¸Ü¶O:"+f+" ¾lÃB"+sum);
+		System.out.println("é€šè©±è²»:"+f+" é¤˜é¡"+sum);
 		}
 	}
 }
